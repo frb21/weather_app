@@ -1,0 +1,68 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Sour Gummy", sans-serif;
+    background-image: url("../img/perfect-weather-with-gradient-sky-ym0nn79vhoqg34v3.jpg");
+}
+
+.mainInterface{
+    background-color: rgba(255, 255, 255, 0.3);
+    margin: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-right: 4rem;
+    padding-left: 2rem;
+    max-width: 40rem;
+    height: 400px;
+    white-space: nowrap;
+    position: relative;
+    top: 120px;
+    left: 310px;
+    border-radius: 25px;
+}
+
+.mainInterface input{
+    margin-left: 0;
+    margin-right: auto;
+    text-align: left;
+    width: 200px;
+    height: 20px;
+    opacity: 0.8;
+}
+
+.mainInterface label{
+    font-size: 20px;
+}
+
+.weather-info{
+    position: relative;
+    left: 40px;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.weather-info h2, p, img{
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
